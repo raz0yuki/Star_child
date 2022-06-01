@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Stage
+  - Item
+  - Ally
+  - PlayerBullet
+  - EnemyBullet
+  - AllyBullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Enemy
+  - Item
+  - PlayerBullet
+  - EnemyBullet
+  - ItemCollider
+  - Signboard
+  - ThroughObject
+  - Ally
+  - AllyBullet
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 844768485
+    locked: 0
+  - name: Tile_Back
+    uniqueID: 1678662417
+    locked: 0
+  - name: Tile_Wall
+    uniqueID: 1186534697
+    locked: 0
+  - name: Effect
+    uniqueID: 1010637861
+    locked: 0
+  - name: Drop
+    uniqueID: 2038911651
+    locked: 0
+  - name: Projectile
+    uniqueID: 3037991461
+    locked: 0
+  - name: Character
+    uniqueID: 2967358357
+    locked: 0
+  - name: Equipment
+    uniqueID: 122609751
+    locked: 0
+  - name: Tile_2
+    uniqueID: 2839075007
+    locked: 0
+  - name: Tile_Surface
+    uniqueID: 2770602743
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Popup
+    uniqueID: 3297522815
+    locked: 0
